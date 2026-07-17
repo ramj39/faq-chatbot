@@ -1,0 +1,39 @@
+{
+  "intents": {
+    "products": [
+      "product",
+      "manufacture",
+      "plating plant",
+      "storage tank",
+      "rotating barrel",
+      "custom solution"
+    ],
+    "services": [
+      "installation",
+      "commissioning",
+      "maintenance",
+      "consulting",
+      "audit"
+    ],
+    "industries": [
+      "automotive",
+      "aerospace",
+      "electronics",
+      "heavy machinery"
+    ],
+    "location": [
+      "where",
+      "address",
+      "location",
+      "facility",
+      "office"
+    ],
+    "contact": [
+      "phone",
+      "email",
+      "contact",
+      "reach",
+      "support"
+    ]
+  }
+}
