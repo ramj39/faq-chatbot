@@ -1,13 +1,11 @@
 [
-  {
-  "question": "Do you manufacture electrical items like rectifiers for plating?",
-  "answer": "Yes, we manufacture rectifiers and other control equipment too."
-  },
-
-
-  {
+   {
     "question": "What products do you manufacture?",
     "answer": "We manufacture plating plants, chemical-resistant storage tanks, rotating barrels, and custom industrial solutions."
+  },
+   {
+  "question": "Do you manufacture electrical items like rectifiers for plating?",
+  "answer": "Yes, we manufacture rectifiers and other control equipment too."
   },
   {
     "question": "Which industries do you serve?",
